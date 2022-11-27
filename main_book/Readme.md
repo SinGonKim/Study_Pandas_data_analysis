@@ -1,7 +1,7 @@
 ![image](https://user-images.githubusercontent.com/87477828/204117439-8c26ef78-a570-44a9-a3ef-0b0c3ba8f26c.png)
 
 ## DATA
-You can download data in <infopub.co.kr>(자료실)
+You can download data in [click](infopub.co.kr)(자료실)
 
 ## Contents
 ### Part 1 판다스 입문
